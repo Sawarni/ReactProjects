@@ -17,6 +17,10 @@ jobs:
       uses: actions/setup-dotnet@v2
       with:
         dotnet-version: 6.0.x
+    - name: move to solution directory
+      run: cd my-app-api
+    - name: Display current directory and move to solution folder
+      run: pwd | ls
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
