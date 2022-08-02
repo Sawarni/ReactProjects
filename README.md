@@ -1,2 +1,2 @@
-# React Project -  ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Sawarni/ReactProjects/Node.js%20CI)
-# Backend API - ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Sawarni/ReactProjects/.NET)
+# React Project -  ![Github Workflow Status](https://github.com/Sawarni/ReactProjects/actions/workflows/node.js.yml/badge.svg)
+# Backend API - ![GitHub Workflow Status](https://github.com/Sawarni/ReactProjects/actions/workflows/dotnet.yml/badge.svg)
